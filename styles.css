@@ -8,4 +8,9 @@
 	text-align:center;
 	
 }
+section{
+	display:flex;
+	gap:10px;
+	flex-wrap:wrap;
+}
 img{border-radius:10px;}
